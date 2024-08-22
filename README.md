@@ -1,44 +1,38 @@
 # 인삿말
-반갑습니다.
-박민철이라고 합니다.
-
----
-**멋진 개발자**가 되기 위해서는 어떻게 해야할까요?
-- 다른 사람들과 소통하기
-- 열심히 공부하기
-- 알고리즘에 대한 다양한 생각하기
-라고 저는 생각합니다!
-
-하지만, 우리가 지켜야 할 것들이 있겠죠?
-1. 몸 건강, 마음 건강 챙기기
-2. 행복을 위한 꾸준한 취미 활동
-3. 무엇보다 옆에 있는 소중한 사람 챙기는 것
-
----
-``` python
-print("항상 행복한 마음으로 살아가자.")
-```
-제 삶의 모토를 python 언어 `print()`함수로 출력하고자 코드블록을 놓았습니다.
-복사해서 실행해보세요.
-
----
-[Google Link](https://www.google.com)
-
-빠르게 **구글 검색 엔진**을 들아가고 싶으면 위의 링크를 누르세요.
-
----
-[Naver Link](https://www.naver.com)
-
-빠르게 **네이버 웹사이트**에 들어가고 싶으면 빨리 위의 링크를 누르세요.
+반갑습니다. 박민철입니다.
 
 ---
 
-인터넷에서 무료로 제공되는 귀여운 강아지 사진을 퍼왔어요잉
----
-![image](https://image.utoimage.com/preview/cp872722/2022/12/202212008462_500.jpg)
+### 교육 과정
+
+- 전북대학교 물리학과 이학사 및 IAB융합학과 융합학사 졸업 :: 2016.03 ~ 2024.02
+- KAPLAN INTERNATIONAL SCHOOL BOSTON :: 2017.05 ~ 2018.04
+- IBS뇌과학이미징연구단 SUMMERCAMP COCOAN LAB INTERNSHIP :: 2022.06 ~ 2022.07
+- 현미경 소재 반도체 공정 스타트업 K-TIP 반도체 공정 과정 및 공정 환경 최적화 :: 2023.08 ~ 2023.12 
+- 삼성청년소프트웨어아카데미(이하 SSAFY) 1학기 코딩 집중과정 (Python) :: 2024.01 ~ 2024.05
+- SSAFY 2학기 프로젝트 집중과정 :: 2024.07 ~ 진행중...
 
 ---
 
- - push를 이용하고 싶어서 수정합니다.
- - 두 번째 수정사항입니다. (01.11. 14:47)
- - 세 번째 수정사항입니다. (01.11. 14:53)
+### Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daringpark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
+
+### 알고리즘
+
+**백준 프로필**
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shoostar0611)](https://solved.ac/shoostar0611)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=shoostar0611)](https://solved.ac/shoostar0611)
+
+---
+
+### Machine Learning
+
+
+---
